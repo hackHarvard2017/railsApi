@@ -1,6 +1,7 @@
 baby got back
 
 
-Dependencies
-
+Dependencies:
 Install with bundle install.
+
+https://git.generalassemb.ly/rails-api-template
